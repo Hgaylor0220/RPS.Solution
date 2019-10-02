@@ -11,10 +11,11 @@ namespace Game.Tests
         {
                 //Arrange
                 Player PlayerOne = new Player();
+              
                 //Act
-                bool startGame = Player.GetPlayer("Jared");
+                string playerName= PlayerOne.GetPlayer("Peter");
                 //Assert
-                Assert.AreEqual(true , true);
+                Assert.AreEqual(playerName, "Peter" );
         }       
     }
 

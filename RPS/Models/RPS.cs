@@ -2,12 +2,11 @@ namespace Game.Models
 {
    public class Player
    {
-       public string name { get; set;}
-       public static bool GetPlayer(string name)
+       public string Name {get; set;}
+       public string GetPlayer(string name)
        {
-           name = "Jared";
-           return true;
-
+           Name = name; 
+           return Name;
        }
    }
 
