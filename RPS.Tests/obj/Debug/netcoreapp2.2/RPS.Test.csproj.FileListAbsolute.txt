@@ -1,0 +1,17 @@
+/Users/Guest/Desktop/RPS.Solution/RPS.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Guest/Desktop/RPS.Solution/RPS.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Guest/Desktop/RPS.Solution/RPS.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Guest/Desktop/RPS.Solution/RPS.Tests/bin/Debug/netcoreapp2.2/RPS.Test.deps.json
+/Users/Guest/Desktop/RPS.Solution/RPS.Tests/bin/Debug/netcoreapp2.2/RPS.Test.runtimeconfig.json
+/Users/Guest/Desktop/RPS.Solution/RPS.Tests/bin/Debug/netcoreapp2.2/RPS.Test.runtimeconfig.dev.json
+/Users/Guest/Desktop/RPS.Solution/RPS.Tests/bin/Debug/netcoreapp2.2/RPS.Test.dll
+/Users/Guest/Desktop/RPS.Solution/RPS.Tests/bin/Debug/netcoreapp2.2/RPS.Test.pdb
+/Users/Guest/Desktop/RPS.Solution/RPS.Tests/bin/Debug/netcoreapp2.2/RPS.dll
+/Users/Guest/Desktop/RPS.Solution/RPS.Tests/bin/Debug/netcoreapp2.2/RPS.pdb
+/Users/Guest/Desktop/RPS.Solution/RPS.Tests/obj/Debug/netcoreapp2.2/RPS.Test.csprojAssemblyReference.cache
+/Users/Guest/Desktop/RPS.Solution/RPS.Tests/obj/Debug/netcoreapp2.2/RPS.Test.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/RPS.Solution/RPS.Tests/obj/Debug/netcoreapp2.2/RPS.Test.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/RPS.Solution/RPS.Tests/obj/Debug/netcoreapp2.2/RPS.Test.AssemblyInfo.cs
+/Users/Guest/Desktop/RPS.Solution/RPS.Tests/obj/Debug/netcoreapp2.2/RPS.Test.csproj.CopyComplete
+/Users/Guest/Desktop/RPS.Solution/RPS.Tests/obj/Debug/netcoreapp2.2/RPS.Test.dll
+/Users/Guest/Desktop/RPS.Solution/RPS.Tests/obj/Debug/netcoreapp2.2/RPS.Test.pdb
