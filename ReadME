@@ -1,0 +1,35 @@
+Scenario: User can initiate a player 
+When the user enters their name.
+Given that there are two players.
+It will allow the user to start the game. 
+
+Scenario: User 1 enters only one of the following: rock, paper, scissors.
+When it is their turn. 
+Given that the previous user has already entered in their name and that they are valid options of r/p/s. 
+It will store their response, and hide it from the second user. 
+
+Scenario: User 2 enters onlt one of the following: rock, paper, scissors. 
+When it is their turn. 
+Given that the previous user has already selected their choice. 
+It will store their response and reveal the winner of the bout. 
+
+Scenario: User 1 enters Rock, User 2 enters paper
+When game play is initiated. 
+Given that both values have been stored, 
+It will reveal that rock (User 1) is the winner. 
+
+Scenario: User 1 enters Rock, User 2 enters scissors
+When game play is initiated. 
+Given that both values have been stored, 
+It will reveal that rock (User 1) is the winner. 
+
+Scenario: User 1 enters Rock(some move vs same move), User 2 enters Rock(some move vs same move)
+When game play is initiated. 
+Given that both values have been stored, 
+It will have the users play again. 
+
+Scenario: User 1 enters Paper, User 2 enters scissors
+When game play is initiated. 
+Given that both values have been stored, 
+It will reveal that scissors is the winner.
+
