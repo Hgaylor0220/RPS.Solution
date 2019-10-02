@@ -1,4 +1,5 @@
 using System.Collections.Generic;
+using System;
 namespace Game.Models
 {
    public class Player
@@ -34,13 +35,15 @@ namespace Game.Models
            }
            else if (rps[Move] == player2.GetMove())
            {
-               return "Player 1 wins!";
+               return Name + " wins!";
            }
            else
            {
-               return "Player 2 wins!";
+               return player2.Name+ " wins!";
            }
        }
+
+      
    }
 
 }

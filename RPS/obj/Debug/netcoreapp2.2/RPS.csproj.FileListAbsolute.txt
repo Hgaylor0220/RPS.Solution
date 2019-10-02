@@ -7,3 +7,5 @@
 /Users/Guest/Desktop/RPS.Solution/RPS/obj/Debug/netcoreapp2.2/RPS.AssemblyInfo.cs
 /Users/Guest/Desktop/RPS.Solution/RPS/obj/Debug/netcoreapp2.2/RPS.dll
 /Users/Guest/Desktop/RPS.Solution/RPS/obj/Debug/netcoreapp2.2/RPS.pdb
+/Users/Guest/Desktop/RPS.Solution/RPS/bin/Debug/netcoreapp2.2/RPS.runtimeconfig.json
+/Users/Guest/Desktop/RPS.Solution/RPS/bin/Debug/netcoreapp2.2/RPS.runtimeconfig.dev.json
